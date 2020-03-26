@@ -1,0 +1,6 @@
+print(2 + 6)
+print(2 - 34)
+print(40 * 7)
+print(90 / 7)
+print(9.8 + 89)
+print(89 % 9)
